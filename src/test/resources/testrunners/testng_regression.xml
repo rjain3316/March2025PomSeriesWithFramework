@@ -8,13 +8,13 @@
 			class-name="com.qa.opencart.listeners.TestAllureListener" /> -->
 	</listeners>  
   
-   <!-- <test name="Login Page Test">  
+    <test name="Login Page Test">  
     <classes>  
       <class name="com.qa.opencart.tests.LoginPageTest"/>   
     </classes>  
   </test> 
   
-  <test name="Account Page Test">  
+ <!-- <test name="Account Page Test">  
     <classes>  
       <class name="com.qa.opencart.tests.AccountsPageTest"/>   
     </classes>  
@@ -25,7 +25,7 @@
       <class name="com.qa.opencart.tests.ProductInfoTest"/>   
     </classes>  
   </test> 
-    -->
+   
   
    <test name="Register Page Test">  
     <classes>  
@@ -33,6 +33,6 @@
     </classes>  
   </test> 
 
-  
+ -->  
   
 </suite> 
